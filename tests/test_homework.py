@@ -43,3 +43,8 @@ def test_01():
     assert result["by"] == 3000
     assert result["algorithms"] == 2000
     assert result["analysis"] == 4000
+
+    
+    
+    
+    
