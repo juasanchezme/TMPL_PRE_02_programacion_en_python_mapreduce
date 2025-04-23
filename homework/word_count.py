@@ -56,7 +56,7 @@ def load_input(input_directory):
 
 
 #
-# Escriba la función line_preprocessing que recibe una lista de tuplas de la
+# Escriba la función line_ preprocessing que recibe una lista de tuplas de la
 # función anterior y retorna una lista de tuplas (clave, valor). Esta función
 # realiza el preprocesamiento de las líneas de texto,
 #
